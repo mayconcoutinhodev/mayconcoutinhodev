@@ -1,4 +1,3 @@
-## 📚 ***Portfolio Com todos meus Projetos*** ➜ [Portfolio](https://maycon-coutinho.surge.sh/) ➜ [Curriculo](https://github.com/MayconCoutinho/Portifolio_Maycon/files/10785844/MayconCoutinhoFullStack.pdf)
 
 <h1 align="center">
  
