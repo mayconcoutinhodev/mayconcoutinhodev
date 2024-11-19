@@ -1,11 +1,4 @@
 
-<h1 align="center">
- 
-|[<img width=1080 src="https://user-images.githubusercontent.com/60453269/236533478-bffd18f4-1370-415b-bc53-3f57bc20e40d.png">](https://maycon-coutinho.surge.sh/)| 
-|---|
- 
- </h1>
-
 
 
 ## 🏆 ***Minhas Competências*** 
