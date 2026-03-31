@@ -1,43 +1,39 @@
+# Maycon Coutinho
+### Full Stack Software Engineer | Freelancer PJ
 
+Desenvolvedor Full Stack com **5 anos de experiência**, especializado em transformar problemas de negócio em soluções tecnológicas escaláveis. Focado em arquitetura, desenvolvimento e sustentação de sistemas, com expertise em **entrega rápida do zero à produção**.
 
+---
 
-## 🏆 ***Minhas Competências*** 
+### 🛠️ Core Stack
+* **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS.
+* **Backend:** Node.js (NestJS/Express), APIs RESTful, GraphQL.
+* **Database:** PostgreSQL, MySQL, SQLite, MongoDB, Prisma ORM.
+* **DevOps:** Docker, CI/CD (GitHub Actions), AWS/DigitalOcean, Linux.
 
-<h1 align="center">
- 
-<img width=400 src="https://streak-stats.demolab.com?user=mayconcoutinhodev&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D">
- 
-<img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconcoutinhodev&layout=compact">
+---
 
-</h1>
+### 🚀 Experiência em Destaque
 
- <br/>
- <div align="center">
+**Nex.Lab Studio (Freelancer / PJ)** *Especialista em soluções customizadas e automação.*
+* Desenvolvimento de sistemas **SaaS e Multi-tenant** de alta performance.
+* Implementação de fluxos de trabalho otimizados com **IA** para acelerar o ciclo de desenvolvimento e garantir previsibilidade.
+* Arquitetura focada em baixo consumo de recursos e escalabilidade.
 
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)&ensp;
- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&ensp;
- ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffff00)&ensp;
- ![React.js](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%111111)&ensp;
- ![NodeJS](https://img.shields.io/badge/node.js-49a249?style=for-the-badge&logo=node.js&logoColor=white)&ensp;
- ![Next.js]( https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%ff7f1c)
- ![Git](https://img.shields.io/badge/GIT-b54e00?style=for-the-badge&logo=git&logoColor=white)&ensp;
- ![MySQL](https://img.shields.io/badge/MySQL-15406b?style=for-the-badge&logo=mysql&logoColor=white)&ensp;
- ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&ensp;
- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&ensp;
- ![FireBase](https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=ffd017)&ensp;
- ![typescript]( https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=4566f7)&ensp;
- ![trello](https://img.shields.io/badge/trello-000000?style=for-the-badge&logo=trello&logoColor=5c95ff)&ensp;
- ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff)&ensp;
- ![postman](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=ff7f1c)&ensp;
- ![jest](https://img.shields.io/badge/jest-000000?style=for-the-badge&logo=jest&logoColor=f78307)&ensp;
- ![docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker)&ensp;
+**Gerence Sistemas (Full Stack Developer)** | *Jun/2023 – Out/2025*
+* Manutenção e escalonamento de aplicações críticas com Node.js e React.
+* Resolução de incidentes críticos em produção e sustentação de sistemas.
+* Atuação em regime de plantão para garantir 99.9% de disponibilidade.
 
- </div>
+---
 
- 
+### 🧪 Projetos de Impacto
+* **Nex.Lab Totem Foto:** Sistema de processamento de imagem em tempo real para eventos.
+* **WhatsApp Automation Engine:** Motor de automação multi-instância focado em eficiência.
+* **Cyber-Accessibility UI:** Biblioteca de acessibilidade para interfaces modernas.
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+### 📫 Conecte-se
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayconcoutinhodev) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email@provedor.com)
